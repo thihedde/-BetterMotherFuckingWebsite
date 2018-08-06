@@ -1,0 +1,23 @@
+body
+{
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: black;
+    padding: 0 10px;
+}
+
+span
+{
+    font-family: monospace;
+}
+
+.liste
+{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-stop: 40px;
+}
